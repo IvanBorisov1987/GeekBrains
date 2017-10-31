@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tatch_the_drop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tatch_the_drop_jar</output-path>
+    <root id="archive" name="Tatch_the_drop.jar">
+      <element id="module-output" name="Tatch_the_drop" />
+    </root>
+  </artifact>
+</component>
