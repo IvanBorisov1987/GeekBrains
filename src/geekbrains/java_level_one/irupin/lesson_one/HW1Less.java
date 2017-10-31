@@ -1,3 +1,5 @@
+package geekbrains.java_level_one.irupin.lesson_one;
+
 /**
 * Java. Level 1. Lesson 1. Homework 1.
 *@author Ivan Borisov
