@@ -2,31 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c86afeff-4293-4789-b3b4-ce331ba17aa3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_five/HW5Less.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_five/out/production/HW5Less/.idea/workspace.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_five/out/production/HW5Less/HW5Less.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_five/out/production/HW5Less/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_five/src/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_five/src/HW5Less.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_four/HW4Less.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_four/out/production/HW4Less/HW4Less.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_four/src/HW4Less.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_one/HW1Less.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_one/out/production/HW1Less/HW1Less.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_one/src/HW1Less.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_six/HW6Less.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_six/out/production/HW6Less/Animal.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_six/out/production/HW6Less/Cat.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_six/out/production/HW6Less/Dog.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_six/out/production/HW6Less/HW6Less.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_six/src/HW6Less.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_three/HW3Less.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_three/out/production/HW3Less/HW3Less.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_three/src/HW3Less.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_two/HM2Less.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_two/out/production/HM2Less/HW2Less.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_two/src/HW2Less.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/ovchinnikov/lesson_one/Main.java" afterPath="$PROJECT_DIR$/src/geekbrains/java_level_one/ovchinnikov/lesson_one/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +28,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one/ovchinnikov/lesson_one/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="135">
+              <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -62,8 +49,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/geekbrains/java_level_one/lesson_one/Main.java" />
-        <option value="$PROJECT_DIR$/src/geekbrains/java_level_one/ovchinnikov/lesson_one/Main.java" />
         <option value="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_one/HW1Less.java" />
+        <option value="$PROJECT_DIR$/src/geekbrains/java_level_one/ovchinnikov/lesson_one/Main.java" />
       </list>
     </option>
   </component>
@@ -74,9 +61,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="648" />
+    <option name="x" value="139" />
     <option name="y" value="30" />
-    <option name="width" value="632" />
+    <option name="width" value="1141" />
     <option name="height" value="718" />
   </component>
   <component name="ProjectView">
@@ -200,14 +187,16 @@
       <workItem from="1509438674323" duration="92000" />
       <workItem from="1509438984975" duration="466000" />
       <workItem from="1509440597052" duration="1112000" />
+      <workItem from="1509455715437" duration="81000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1670000" />
+    <option name="totallyTimeSpent" value="1751000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="648" y="30" width="632" height="718" extended-state="0" />
+    <frame x="139" y="30" width="1141" height="718" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -256,20 +245,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one/ovchinnikov/lesson_one/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one_lesson_one/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one/lesson_one/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_one/HW1Less.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one/ovchinnikov/lesson_one/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="135">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding />
         </state>
       </provider>
