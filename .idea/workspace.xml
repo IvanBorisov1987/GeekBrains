@@ -2,7 +2,153 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c86afeff-4293-4789-b3b4-ce331ba17aa3" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/geekbrains/java_level_one/ovchinnikov/lesson_one/HW2.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/java_level_one/ovchinnikov/lesson_one/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/My_MacGrat/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/My_MacGrat/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/My_MacGrat/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/My_MacGrat/MacGrat.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/Pillar Task Manager/.idea/description.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/Pillar Task Manager/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/Pillar Task Manager/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/Pillar Task Manager/.idea/project-template.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/Pillar Task Manager/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/Pillar Task Manager/Pillar Task Manager.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/ThinkingInJava/.idea/description.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/ThinkingInJava/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/ThinkingInJava/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/ThinkingInJava/.idea/project-template.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/ThinkingInJava/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/ThinkingInJava/ThinkingInJava.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/myWork/.idea/description.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/myWork/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/myWork/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/myWork/.idea/project-template.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/myWork/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/myWork/myWork.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/myWork/src/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/myWork/src/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/myWork/src/.idea/src.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekBrains/geekbrains/other_projects/myWork/src/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_one/.idea/description.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_one/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_one/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_one/.idea/project-template.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_one/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_one/HW1Less.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/geekbrains/java_level_one/ovchinnikov/lesson_one/HW1.java" afterPath="$PROJECT_DIR$/src/geekbrains/java_level_one/ovchinnikov/lesson_one/HW1.java" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Actions.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Args.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Arithmetic.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Array.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Assignment.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Bitwise.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Break.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Buttons.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Car.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/CharacterSwap.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Compare.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Comparison.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Condition.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Constants.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Constructor.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Convert.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Custom.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Data.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/DataTypes.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/DateTime.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Dimensions.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/DoWhile.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Draw.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Elements.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Else.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Escape.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Exceptions.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/FirstInstance.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/FirstObject.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/FirstVariable.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/For.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Formats.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Hello.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/If.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Items.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Keystrokes.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Label.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Labels.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Layout.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/ListFiles.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Lists.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Logic.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Loops.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Lottery.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Lotto.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Lotto.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Lotto.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Lotto.jnlp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Lotto.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/LottoApplet.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/LottoApplet.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Massive4.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Messages.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Methods.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Mouse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Multi.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Option.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Overload.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Pi.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/PlayLotto.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/PlayNow.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Power.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Precedence.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Radios.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Random.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/ReadFile.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/ReadString.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Request.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Round.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Scope.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Sort.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Sound.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/States.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/StringComparison.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/StringLength.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/StringSearch.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/SubClass.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/SuperClass.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Switch.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Test.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/TextFields.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/While.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Window.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/WriteFile.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/cross.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/data/albums.ods" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/data/oscar.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/data/xml.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/duke.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/music.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/oscar.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/permissions.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/tick.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/Pillar Task Manager/.idea/description.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/Pillar Task Manager/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/Pillar Task Manager/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/Pillar Task Manager/.idea/project-template.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/Pillar Task Manager/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/Pillar Task Manager/Pillar Task Manager.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/Pillar Task Manager/out/production/Pillar Task Manager/pillarasset/ru/MainClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/Pillar Task Manager/out/production/Pillar Task Manager/pillarasset/ru/PillarTaskManager.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/Pillar Task Manager/src/pillarasset/ru/PillarTaskManager.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/ThinkingInJava/.idea/description.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/ThinkingInJava/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/ThinkingInJava/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/ThinkingInJava/.idea/project-template.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/ThinkingInJava/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/ThinkingInJava/ThinkingInJava.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/ThinkingInJava/out/production/ThinkingInJava/Main$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/ThinkingInJava/out/production/ThinkingInJava/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/other_projects/ThinkingInJava/src/Main.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,39 +160,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HW1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one/ovchinnikov/lesson_one/HW1.java">
+      <file leaf-file-name="HW2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one/ovchinnikov/lesson_one/HW2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="591">
-              <caret line="45" column="23" lean-forward="false" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
-              <folding>
-                <element signature="e#1408#1409#0" expanded="true" />
-                <element signature="e#1464#1465#0" expanded="true" />
-                <element signature="e#1590#1591#0" expanded="true" />
-                <element signature="e#1661#1662#0" expanded="true" />
-                <element signature="e#1826#1827#0" expanded="true" />
-                <element signature="e#1856#1857#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HW1Less.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_one/HW1Less.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="70" column="56" lean-forward="true" selection-start-line="69" selection-start-column="2" selection-end-line="70" selection-end-column="56" />
-              <folding>
-                <element signature="e#1458#1459#0" expanded="true" />
-                <element signature="e#1502#1503#0" expanded="true" />
-                <element signature="e#1753#1754#0" expanded="true" />
-                <element signature="e#1813#1814#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -92,10 +223,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,23 +251,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="geekbrains" type="462c0819:PsiDirectoryNode" />
               <item name="java_level_one" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GeekBrains" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GeekBrains" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="geekbrains" type="462c0819:PsiDirectoryNode" />
-              <item name="java_level_one" type="462c0819:PsiDirectoryNode" />
-              <item name="irupin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GeekBrains" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GeekBrains" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="geekbrains" type="462c0819:PsiDirectoryNode" />
-              <item name="java_level_one" type="462c0819:PsiDirectoryNode" />
-              <item name="irupin" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_one" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GeekBrains" type="b2602c69:ProjectViewProjectNode" />
@@ -239,17 +353,18 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43741402" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23828755" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25040388" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -262,7 +377,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -280,15 +394,42 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one/ovchinnikov/lesson_one/HW1.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="61" lean-forward="false" selection-start-line="79" selection-start-column="61" selection-end-line="79" selection-end-column="61" />
+          <folding>
+            <element signature="e#1974#1975#0" expanded="true" />
+            <element signature="e#2030#2031#0" expanded="true" />
+            <element signature="e#2156#2157#0" expanded="true" />
+            <element signature="e#2246#2247#0" expanded="true" />
+            <element signature="e#2411#2412#0" expanded="true" />
+            <element signature="e#2439#2440#0" expanded="true" />
+            <element signature="e#2655#2656#0" expanded="true" />
+            <element signature="e#2714#2715#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_one/HW1Less.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="87" column="59" lean-forward="false" selection-start-line="85" selection-start-column="2" selection-end-line="87" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one/ovchinnikov/lesson_one/HW1.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1408#1409#0" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1590#1591#0" expanded="true" />
-            <element signature="e#1661#1662#0" expanded="true" />
-            <element signature="e#1826#1827#0" expanded="true" />
-            <element signature="e#1856#1857#0" expanded="true" />
+            <element signature="e#1974#1975#0" expanded="true" />
+            <element signature="e#2030#2031#0" expanded="true" />
+            <element signature="e#2156#2157#0" expanded="true" />
+            <element signature="e#2246#2247#0" expanded="true" />
+            <element signature="e#2411#2412#0" expanded="true" />
+            <element signature="e#2439#2440#0" expanded="true" />
+            <element signature="e#2655#2656#0" expanded="true" />
+            <element signature="e#2714#2715#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -298,12 +439,14 @@
         <state relative-caret-position="150">
           <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
           <folding>
-            <element signature="e#1408#1409#0" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1590#1591#0" expanded="true" />
-            <element signature="e#1661#1662#0" expanded="true" />
-            <element signature="e#1826#1827#0" expanded="true" />
-            <element signature="e#1856#1857#0" expanded="true" />
+            <element signature="e#1974#1975#0" expanded="true" />
+            <element signature="e#2030#2031#0" expanded="true" />
+            <element signature="e#2156#2157#0" expanded="true" />
+            <element signature="e#2246#2247#0" expanded="true" />
+            <element signature="e#2411#2412#0" expanded="true" />
+            <element signature="e#2439#2440#0" expanded="true" />
+            <element signature="e#2655#2656#0" expanded="true" />
+            <element signature="e#2714#2715#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -320,12 +463,14 @@
         <state relative-caret-position="150">
           <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
           <folding>
-            <element signature="e#1408#1409#0" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1590#1591#0" expanded="true" />
-            <element signature="e#1661#1662#0" expanded="true" />
-            <element signature="e#1826#1827#0" expanded="true" />
-            <element signature="e#1856#1857#0" expanded="true" />
+            <element signature="e#1974#1975#0" expanded="true" />
+            <element signature="e#2030#2031#0" expanded="true" />
+            <element signature="e#2156#2157#0" expanded="true" />
+            <element signature="e#2246#2247#0" expanded="true" />
+            <element signature="e#2411#2412#0" expanded="true" />
+            <element signature="e#2439#2440#0" expanded="true" />
+            <element signature="e#2655#2656#0" expanded="true" />
+            <element signature="e#2714#2715#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -342,12 +487,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1408#1409#0" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1590#1591#0" expanded="true" />
-            <element signature="e#1661#1662#0" expanded="true" />
-            <element signature="e#1826#1827#0" expanded="true" />
-            <element signature="e#1856#1857#0" expanded="true" />
+            <element signature="e#1974#1975#0" expanded="true" />
+            <element signature="e#2030#2031#0" expanded="true" />
+            <element signature="e#2156#2157#0" expanded="true" />
+            <element signature="e#2246#2247#0" expanded="true" />
+            <element signature="e#2411#2412#0" expanded="true" />
+            <element signature="e#2439#2440#0" expanded="true" />
+            <element signature="e#2655#2656#0" expanded="true" />
+            <element signature="e#2714#2715#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -357,12 +504,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1408#1409#0" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1590#1591#0" expanded="true" />
-            <element signature="e#1661#1662#0" expanded="true" />
-            <element signature="e#1826#1827#0" expanded="true" />
-            <element signature="e#1856#1857#0" expanded="true" />
+            <element signature="e#1974#1975#0" expanded="true" />
+            <element signature="e#2030#2031#0" expanded="true" />
+            <element signature="e#2156#2157#0" expanded="true" />
+            <element signature="e#2246#2247#0" expanded="true" />
+            <element signature="e#2411#2412#0" expanded="true" />
+            <element signature="e#2439#2440#0" expanded="true" />
+            <element signature="e#2655#2656#0" expanded="true" />
+            <element signature="e#2714#2715#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -371,13 +520,7 @@
     <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one/lesson_one/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Window .java" />
     <entry file="file://$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/SafeInstance.java" />
-    <entry file="file://$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Formats.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Formats.java" />
     <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_four/HW4Less.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -385,31 +528,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekbrains/other_projects/MacGrat Exsample/Logic.java" />
     <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one/irupin/lesson_one/HW1Less.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="70" column="56" lean-forward="true" selection-start-line="69" selection-start-column="2" selection-end-line="70" selection-end-column="56" />
-          <folding>
-            <element signature="e#1458#1459#0" expanded="true" />
-            <element signature="e#1502#1503#0" expanded="true" />
-            <element signature="e#1753#1754#0" expanded="true" />
-            <element signature="e#1813#1814#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1185">
+          <caret line="87" column="59" lean-forward="false" selection-start-line="85" selection-start-column="2" selection-end-line="87" selection-end-column="59" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one/ovchinnikov/lesson_one/HW1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="45" column="23" lean-forward="false" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+        <state relative-caret-position="-147">
+          <caret line="55" column="83" lean-forward="false" selection-start-line="55" selection-start-column="83" selection-end-line="55" selection-end-column="83" />
           <folding>
-            <element signature="e#1408#1409#0" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1590#1591#0" expanded="true" />
-            <element signature="e#1661#1662#0" expanded="true" />
-            <element signature="e#1826#1827#0" expanded="true" />
-            <element signature="e#1856#1857#0" expanded="true" />
+            <element signature="e#1974#1975#0" expanded="true" />
+            <element signature="e#2030#2031#0" expanded="true" />
+            <element signature="e#2156#2157#0" expanded="true" />
+            <element signature="e#2246#2247#0" expanded="true" />
+            <element signature="e#2411#2412#0" expanded="true" />
+            <element signature="e#2439#2440#0" expanded="true" />
+            <element signature="e#2655#2656#0" expanded="true" />
+            <element signature="e#2714#2715#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekbrains/java_level_one/ovchinnikov/lesson_one/HW2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
