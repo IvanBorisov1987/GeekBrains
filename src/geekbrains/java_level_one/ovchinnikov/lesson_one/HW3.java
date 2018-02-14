@@ -1,12 +1,14 @@
 package geekbrains.java_level_one.ovchinnikov.lesson_one;
 
+import java.util.Scanner;
+
 /**
  * крестики нолики с AI
  */
 
 public class HW3 {
 
-    // переменные ртвечает за создание статического игрового поля
+    // переменные ртвечает за создание статического  поля
     static final int SizeX = 3;
     static final int SizeY = 3;
     static char[][] field = new char[SizeY][SizeX];
@@ -15,6 +17,9 @@ public class HW3 {
     static final char AI_DOT = '0'; // поле компьютера
     static final char Empty_DOT = '.';  // пустое поле
 
+    static Scanner scanner = new Scanner(System.in);
+
+
         // метод initField создает пустое поле установленного размера и заполняет его пустыми значениями
         private static void initField() {
             for (int i =0; i < SizeY; i++) // по столбцу так как идет сверху вниз
@@ -22,16 +27,33 @@ public class HW3 {
                     field[i][j] = Empty_DOT;
         }
 
-        // метод показывает поле пользовател
+
+        // метод printField показывает поле пользовател
         private static void printField() {
-            System.out.println("---------");
+            System.out.println("----------");
             for (int i =0; i < SizeY; i++) { // по столбцу так как идет сверху вниз
+                System.out.print("|");
                 for (int j = 0; j < SizeX; j++) // по строке
                     System.out.print(field[i][j] + " |");
                 System.out.println();
             }
-            System.out.println("---------");
+            System.out.println("----------");
         }
+
+
+        private static void setSym(int x, int y, char sym) { // принимает параметры координат для того что бы прнимать значения
+            field[x][y] = sym;
+        }
+
+
+        // Метод playerTurn описывает ход человека, переменные отображают координаты кода
+        private static void playerTurn() {
+            System.out.println("Введите координаты в формате X Y (1 -3): ");
+            int x = scanner.nextInt();
+            int y = scanner.nextInt();
+            setSym(y, x, Player_DOT);
+        }
+
 
     public static void main(String[] args) {
             initField();
