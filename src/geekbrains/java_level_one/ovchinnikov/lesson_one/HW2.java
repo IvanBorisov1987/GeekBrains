@@ -31,6 +31,28 @@ public class HW2 {
                 if (array[i] < 6)
                     array[i] *= 2;
         }
+        // задание 4
+    private static void crossFill(int[][] array){
+        int strght; // переменная начинает с левого верхнего угла и на каждой итерации сдвигается на шаг вправо
+        int bckwd; // переменная начинает с правого верхнего угла и на каждой итерации сдвигается на шаг влево
+
+        for (strght = 0,
+                bckwd = array.length - 1;
+        strght < array.length;
+
+            strght++,
+        bckwd --) {
+    array[strght][bckwd] = 1;
+    array[strght][strght] = 1;
+        }
+
+    }
+    private static int findMin(int[] array) {
+        int min = array[0];
+        for (int i = 0; i < array.length; i++)
+            min = (array[i] < min) ? array[i] : min;
+        return min;
+    }
 
         // 5 задание
         private static int findMax(int[] array) {
@@ -41,19 +63,59 @@ public class HW2 {
             return max;
 
         }
+        /*
+    private static float power(float base, float significative) {
+        float res = 1.0f;
+        for (int i  = 0; i < significative; i ++) {
+            res*= base;
+        }
+        return res;
+    } */
 
-        private static int findMin(int[] array) {
-            int min = array[0];
-            for (int i = 0; i < array.length; i++)
-                min = (array[i] < min) ? array[i] : min;
-            return min;
+    // задание 6
+    private static boolean checkBalance(int [] array) {
+        int right = 0, left = 0;
+        for (int i = 0; i < array.length - 1; i++) {
+            left += array[i];
+            for (int j = 0; j < array.length - 1; j++)
+                right +=array[i];
+            if (left == right) return true;
+            right = 0;
+        }
+        return false;
     }
+
+    //задание 7
+    private static void shifter(int[] array, int value){
+        boolean direction;
+        if (value < 0) {
+            direction = true;
+            value =- value;
+        } else {
+            direction = false;
+        }
+        int lastIndex = array.length - 1;
+        for (int i = 0; i < value; i++) {
+            int temp = (direction) ? array[0] : array[lastIndex];
+                for (int j = 0; j < lastIndex; j++) {
+                    if (direction)
+                        array[i] = array[j + 1];
+                    else
+                        array[lastIndex - 1] = array[lastIndex - j - 1];
+                }
+                if (direction)
+                    array[lastIndex] = temp;
+                else
+                    array[0] = temp;
+        }
+    }
+
 
     public static void main(String[] args) {
 
         /*1. Задать целочисленный массив, состоящий из элементов 0 и 1.
         Например: [ 1, 1, 0, 0, 1, 0, 1, 1, 0, 0 ]. С помощью цикла и условия заменить 0 на 1, 1 на 0; */
-        System.out.println("Задание 1");
+        System.out.println("Задание 15");
         int[] numbers = {1, 1, 0, 0, 1, 0, 1, 1, 0, 0};
         System.out.println("массив до:\t" + Arrays.toString(numbers));
         change(numbers); // метод принимает массив и преобразует
@@ -83,6 +145,10 @@ public class HW2 {
         System.out.println(" ");
         System.out.println("Задание 4");
 
+        int[][] diagonals = new int[4][4];  //пустой
+        crossFill(diagonals);
+        System.out.println(Arrays.toString(diagonals));
+
 
         /* 5. ** Задать одномерный массив и найти в нем минимальный и максимальный элементы */
         System.out.println(" ");
@@ -97,6 +163,10 @@ public class HW2 {
       checkBalance ([10, || 10]) → true, граница показана символами ||, эти символы в массив не входят. */
         System.out.println(" ");
         System.out.println("Задание 6");
+        int[] pow = {2, 1, 1, 2, 1};
+
+
+
     /* 7. **** Написать метод, которому на вход подается одномерный массив и число n
     (может быть положительным, или отрицательным), при этом метод должен сместить все элементымассива на n позиций.
      Для усложнения задачи нельзя пользоваться вспомогательными массивами.*/
