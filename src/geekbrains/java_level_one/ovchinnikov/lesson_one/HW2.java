@@ -170,8 +170,14 @@ public class HW2 {
     /* 7. **** Написать метод, которому на вход подается одномерный массив и число n
     (может быть положительным, или отрицательным), при этом метод должен сместить все элементымассива на n позиций.
      Для усложнения задачи нельзя пользоваться вспомогательными массивами.*/
+
         System.out.println(" ");
         System.out.println("Задание 7");
+        int[] shiftArray = {0,1,2,3,4,5,6,7,8,9};
+        shifter(shiftArray,-13);
+        System.out.println("-13" + Arrays.toString(shiftArray));
+        shifter(shiftArray, 16);
+        System.out.println("+16" + Arrays.toString(shiftArray));
     }
 }
 
